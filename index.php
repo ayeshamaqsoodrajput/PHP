@@ -28,6 +28,26 @@
         echo "<br>".$key;
         echo "<br>".$value;
     }
+    $x =1;
+     while($x <=9){
+        echo ": $x <br>";
+        $x++;
+     }
+      $t  =date("H");
+      if ($t <="20"){
+        echo "Have a good day";
+      }
+  //  function Add($a,$b){
+//echo gettype ($a)
+//echo  $a- $b;
+//Add (45- 67 );
+   // } 
+  $value = "";
+  function add($a ,$b){
+  $value =2+9;
+  echo $value;   
+   }
+   add (34,5);
     ?>
 </body>
 </html>
