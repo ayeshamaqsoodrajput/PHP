@@ -1,7 +1,7 @@
 <?php include_once "header.php";?>
 
 <center><h1>Main</h1></center>
-<form action="action.php>
+<form action="action.php">
   <div class="mb-3">
     <label>Email address</label>
     <input type="email">
